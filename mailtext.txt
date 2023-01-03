@@ -1,0 +1,10 @@
+Dear Admin,
+
+I am writing on behalf of the chatbot currently assisting with customer inquiries. Unfortunately, I have encountered a situation that requires human assistance. The chatbot is unable to provide a satisfactory response to the customer's inquiry and it is necessary for a human representative to step in. 
+
+Could you please assign a human representative to handle this inquiry as soon as possible? I apologize for any inconvenience this may cause. 
+
+Thank you for your prompt attention to this matter.
+
+Regards
+Bot
